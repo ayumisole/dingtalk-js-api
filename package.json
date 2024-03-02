@@ -1,5 +1,5 @@
 {
-  "name": "dingtalk-bot-api",
+  "name": "dingtalk-node-api",
   "version": "0.0.1",
   "description": "Simple DingTalk API for Node.js",
   "main": "index.js",
