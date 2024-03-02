@@ -1,0 +1,28 @@
+{
+  "name": "dingtalk-bot-api",
+  "version": "0.0.1",
+  "description": "Simple DingTalk API for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "dingtalk"
+  ],
+  "author": "ayumisole",
+  "license": "MIT",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {
+    "request": "~2.72.0"
+  },
+  "bin": {
+    "dingtalk": "bin/dingtalk.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayumisole/dingtalk-js-api.git"
+  }
+}
